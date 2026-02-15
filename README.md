@@ -5,7 +5,7 @@ A responsive, web-based GPA calculator tailored for First Year Engineering stude
 This tool dynamically loads course structures based on Branch and Semester, accurately handling the "Physics Cycle" vs. "Chemistry Cycle" rotation used in engineering colleges.
 
 
-<https://www.aissmsga.com>
+<https://www.aissmsgpa.com>
 
 
 ## 🚀 Features
